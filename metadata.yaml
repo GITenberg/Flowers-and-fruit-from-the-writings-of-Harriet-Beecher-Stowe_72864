@@ -1,0 +1,40 @@
+_repo: Flowers-and-fruit-from-the-writings-of-Harriet-Beecher-Stowe_72864
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Fairfield, Abbie H.
+    gutenberg_agent_id: '56840'
+    url: http://www.gutenberg.org/2009/agents/56840
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2024-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72864'
+language: en
+pgterms:marc904: https://archive.org/details/flowersfruitfrom00stow/page/n7/mode/2up
+pgterms:marc905: 20210528174457stowe
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Charlene Taylor, A. Marshall and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Flowers and fruit from the writings of Harriet Beecher Stowe
+url: http://www.gutenberg.org/ebooks/72864
