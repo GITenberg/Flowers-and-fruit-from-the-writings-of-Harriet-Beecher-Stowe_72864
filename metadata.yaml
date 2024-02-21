@@ -5,6 +5,9 @@ contributor:
     agent_name: Fairfield, Abbie H.
     gutenberg_agent_id: '56840'
     url: http://www.gutenberg.org/2009/agents/56840
+covers:
+- cover_type: archival
+  image_path: 72864-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72864#Flowers-and-fruit-from-the-writings-of-Harriet-Beecher-Stowe
 gutenberg_issued: '2024-02-03'
 gutenberg_type: Text
 identifiers:
